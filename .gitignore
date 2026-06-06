@@ -1,0 +1,42 @@
+# Build outputs
+/build/
+/out/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.dir/
+
+# Visual Studio / MSBuild
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+x64/
+Win32/
+HP_CLEANER++/
+
+# Binaries
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.iobj
+*.ipdb
+*.exp
+*.lib
+*.res
+
+# Translation batch caches (regenerate locally)
+tools/*_batch.json
+tools/ja_remaining.json
+tools/ja_remaining.txt
+tools/i18n_extracted.json
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store

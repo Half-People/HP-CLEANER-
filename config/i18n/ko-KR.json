@@ -1,0 +1,15 @@
+{
+  "language": "ko-KR",
+  "name": "한국어",
+  "strings": {
+    "NavMainPage": "홈",
+    "NavClearPage": "시스템 정리",
+    "NavOptimizePage": "최적화 스캔",
+    "NavDiskHealthPage": "디스크 상태",
+    "NavFileMapPage": "파일 맵",
+    "NavHistoryPage": "기록",
+    "NavAboutPage": "정보",
+    "系統清理": "시스템 정리",
+    "優化掃描": "최적화 스캔"
+  }
+}
