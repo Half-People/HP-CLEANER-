@@ -16,7 +16,12 @@ Supplementary documentation for contributors.
 
 | File | Description |
 |------|-------------|
-| `developer-notes.zh-TW.md` | Internal work log copied from the dev `doc/porject.md` (Traditional Chinese) |
+| [`INSTALL.md`](INSTALL.md) | End-user install & troubleshooting (English) |
+| [`INSTALL.zh-TW.md`](INSTALL.zh-TW.md) | 安裝與疑難排解（繁體中文） |
+| [`RELEASE.md`](RELEASE.md) | Maintainer release checklist (English) |
+| [`RELEASE.zh-TW.md`](RELEASE.zh-TW.md) | 發佈檢查清單（繁體中文） |
+| [`release-notes/v1.0.0.md`](release-notes/v1.0.0.md) | GitHub Release body template (bilingual) |
+| `developer-notes.zh-TW.md` | Internal work log (Traditional Chinese) |
 
 For public-facing overview and build steps, see the root [`README.md`](../README.md).
 

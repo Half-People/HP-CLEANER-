@@ -66,7 +66,9 @@ cmake --build build --config Release
 
 ### 方式 B — 正式版本
 
-發佈後可自 [Releases](https://github.com/YOUR_ORG/HP_CLEANER/releases) 下載 **`HP_CLEANER++.exe`**（請在上架 GitHub 後替換為實際連結）。
+自 **[Releases](https://github.com/Half-People/HP-CLEANER-/releases)** 下載最新可攜版（`HP_CLEANER++-*-win64.zip`）。
+
+安裝說明：[INSTALL.zh-TW.md](docs/INSTALL.zh-TW.md) · [English](docs/INSTALL.md) · [變更紀錄](CHANGELOG.md)
 
 ---
 

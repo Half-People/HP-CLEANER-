@@ -16,7 +16,12 @@ Contributor 補充文件。
 
 | 檔案 | 說明 |
 |------|------|
-| `developer-notes.zh-TW.md` | 自開發樹 `doc/porject.md` 複製的內部工作筆記（繁體中文） |
+| [`INSTALL.md`](INSTALL.md) | 使用者安裝說明（英文） |
+| [`INSTALL.zh-TW.md`](INSTALL.zh-TW.md) | 安裝與疑難排解（繁體中文） |
+| [`RELEASE.md`](RELEASE.md) | 維護者發佈流程（英文） |
+| [`RELEASE.zh-TW.md`](RELEASE.zh-TW.md) | 發佈檢查清單（繁體中文） |
+| [`release-notes/v1.0.0.md`](release-notes/v1.0.0.md) | GitHub Release 正文範本（中英雙語） |
+| `developer-notes.zh-TW.md` | 內部工作筆記（繁體中文） |
 
 公開說明與建置步驟見根目錄 [`README.zh-TW.md`](../README.zh-TW.md)。
 

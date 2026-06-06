@@ -66,7 +66,9 @@ After build, language files are copied to `build/Release/i18n/` automatically.
 
 ### Option B — Releases
 
-When available, download the latest **`HP_CLEANER++.exe`** from the [Releases](https://github.com/YOUR_ORG/HP_CLEANER/releases) page (replace with your GitHub URL after publish).
+Download the latest portable package from **[Releases](https://github.com/Half-People/HP-CLEANER-/releases)** (`HP_CLEANER++-*-win64.zip`).
+
+See [Installation guide](docs/INSTALL.md) · [安裝說明（繁中）](docs/INSTALL.zh-TW.md) · [Changelog](CHANGELOG.md).
 
 ---
 
@@ -94,7 +96,7 @@ When available, download the latest **`HP_CLEANER++.exe`** from the [Releases](h
 | [`assets/`](assets/README.md) | Logos, icon, fonts (embedded in the executable) |
 | [`config/i18n/`](config/i18n/README.md) | Optional runtime translation JSON |
 | [`cmake/`](cmake/README.md) | Build configuration |
-| [`tools/`](tools/README.md) | Translation and maintenance scripts |
+| [`tools/`](tools/README.md) | Translation scripts, release packaging |
 | [`third_party/`](third_party/README.md) | Bundled libraries (ImGui, json, etc.) |
 
 Full documentation index and build troubleshooting: see sections in [README.zh-TW.md](README.zh-TW.md) (中文).
